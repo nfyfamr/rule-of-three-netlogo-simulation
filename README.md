@@ -6,11 +6,13 @@ It refers to a phenomenon in which a group is formed when three people gather, i
 
 ### Experiment
 * 1 person
-![1 person](./images/1person.png)
+<img src="./images/1person.png" width="400px" />
+
 * 2 person
-![1 person](./images/2person.png)
+<img src="./images/2person.png" width="400px" />
+
 * 3 person
-![1 person](./images/3person.png)
+<img src="./images/3person.png" width="400px" />
 
 ### Reference
 * https://www.youtube.com/watch?v=1g9LJ-lWQb4
